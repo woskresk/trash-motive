@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "timer": "^1.0.1"
+    "timer": "^1.0.1",
+    "webpack": "^5.66.0"
   }
 }
